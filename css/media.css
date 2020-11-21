@@ -1,0 +1,315 @@
+@media (max-width:1399px) {
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 10px;
+    
+}
+.join-img img {
+    margin: 25px 0;
+    
+}
+
+}
+
+@media (max-width:1199px) {
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 0;
+    text-align: center;
+}
+.btn-info {
+    margin: 0 0 0 auto;
+   
+}
+
+.banner .card-group .card {
+    margin-right: 15px;
+    padding: 5px;
+    
+}
+
+.banner .card-group .card .card-body {
+    padding: 10px;
+}
+.marr {
+    margin: 0 5px;
+}
+.join-img img {
+    max-width: 470px;
+    padding: 0;
+}
+.join-img img {
+    margin: 80px 0;
+}
+.join-title {
+    padding: 35px;
+    margin: 75px 5px 30px 5px;
+    
+}
+
+}
+
+@media (max-width:991px){
+.left-head {
+    padding: 15px 50px 15px 0px;
+    max-width: 50%;
+
+}
+.marr {
+    margin: 0;
+}
+
+.join-img img {
+    max-width: 100%;
+    margin: 33px 0;
+}
+
+.join-title {
+    padding: 15px;
+    margin: 0;
+}
+.partner-section .card .card-body {
+    padding: 15px 5px;
+   
+}
+.simple-section {
+    text-align: center;
+}
+.inner-simple {
+    padding: 20px;
+}
+
+}
+
+
+@media (max-width:767px){
+.bg-light {
+    padding: 10px 0;
+    
+}
+
+.btn-info {
+    font-size: 13px;
+    padding: 10px 25px;
+    
+}
+
+.left-head {
+    padding: 12px 40px 12px 0px;
+    max-width: 50%;
+
+}
+
+.left-head h2 {
+    font-size: 35px;
+ }
+header {
+    padding: 35px 0;
+}
+.banner {
+    padding: 30px 0 0;
+}
+
+.banner-title h1 {
+    font-size: 45px;
+}
+
+.banner-title p {
+    font-size: 25px;
+    margin: 15px 0;
+}
+
+.text-center {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.banner .card-group .card {
+    margin-right: 0;
+    padding: 35px;
+    margin-bottom: 25px;
+}
+.join-section {
+    padding: 20px 0;
+}
+
+.join-img {
+    margin-bottom: 25px;
+}
+
+.join-img img {
+    margin: 0;
+    padding: 20px;
+}
+
+.join-title {
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.join-title h6 {
+    margin: 10px 0;
+}
+.partner-section {
+    padding: 20px 0;
+}
+
+.par-head {
+    margin: 20px 0;
+}
+
+.par-head h1 {
+    font-size: 45px;
+}
+.partner-section .card {
+    margin-bottom: 5px;
+}
+.inner-img {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.partner-section .card .card-body {
+    padding: 5px 0px;
+}
+
+.simple-section {
+    padding: 20px 0 30px;
+}
+
+.simple-title h2 {
+    font-size: 27px;
+    margin-bottom: 0;
+    line-height: 0;
+}
+
+.inner-simple {
+    padding: 40px 0px;
+}
+
+.inner-simple h1 {
+    font-size: 60px;
+    line-height: 60px;
+   
+}
+
+.inner-simple h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.simple-section .btn-info {
+
+    font-size: 12px;
+    padding: 12px 25px;
+ }  
+ footer {
+    padding: 20px 0 15px;
+}
+.inner-footer {
+    text-align: center;
+    margin-bottom: 20px;
+}  
+
+}
+
+
+@media (max-width:575px){
+.d-flex {
+    display: flex!important;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.btn-info {
+    margin: 10px auto;
+}
+.bg-light {
+    padding: 10px;
+}
+.left-head {
+    max-width: 70%;
+}
+.left-head h2 {
+    font-size: 30px;
+}
+.banner-title {
+    text-align: center!important;
+}
+.banner-title h1 {
+    font-size: 40px;
+}
+
+.banner-title p {
+    margin: 10px 0;
+}
+.par-head h1 {
+    font-size: 40px;
+}
+.banner .card-group .card .card-body .card-text:last-child {
+    padding: 0 20px;
+}
+.banner .card-group .card {
+    margin-right: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.join-img {
+    margin-bottom: 15px;
+}
+
+.join-img img {
+    padding: 0;
+}
+.join-title {
+    padding: 15px;
+
+}
+.join-title p {
+    padding: 0 20px;
+}
+.par-head {
+    text-align: center!important;
+}
+
+.partner-section .card .card-body {
+    padding: 5px 15px;
+}
+
+.simple-title h2 {
+    line-height: 1.3;
+    padding: 0 20px;
+}
+
+.inner-simple {
+    padding: 15px 45px;
+}
+
+.inner-footer h4 {
+    margin-bottom: 10px;
+    
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
